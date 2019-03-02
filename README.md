@@ -7,3 +7,6 @@
 
 * This project is aiming at building the "Infinity Outlast Battle" game (IOB) in Python, and constructing Markov Chain model in Python on the Jupyter Notebook to analyze the data of gameplay, obtaining the associated eigenvectors and discovering the steady state in this mechanism
 
+Note:
+
+Project in progess......
