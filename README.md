@@ -1,4 +1,4 @@
-# Infinity Outlast Battle
+# Infinite Outlast Battle
 --------------------------------------------------------------------------
 
 ## Description:
