@@ -10,7 +10,7 @@ Background:
 * This project is aiming at building the "Infinity Outlast Battle" game (IOB) with Object-Oriented Design in Python, and constructing Markov Chain model in Python on the Jupyter Notebook to analyze the data of gameplay (over the gameboard with 40 cells for now), obtaining the associated <b>dominant eigenvectors</b> and <b>discovering the steady state in the long run (Markov Chains)</b> in this mechanism
 
 ![Image of Zombies Chasing Human]
-(https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwie8Le10ozhAhVvUN8KHW0aBq4QjRx6BAgBEAU&url=http%3A%2F%2Fwww.melaniekarsak.com%2F2015%2F05%2Fthe-zombie-papers-hollow-men-rebooted_27.html&psig=AOvVaw3K_UiuHp3De3Bg3U1MuaiG&ust=1553031251545613)
+(https://raw.githubusercontent.com/xuzhe0205/IOB_markovchain/master/https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwie8Le10ozhAhVvUN8KHW0aBq4QjRx6BAgBEAU&url=http%3A%2F%2Fwww.melaniekarsak.com%2F2015%2F05%2Fthe-zombie-papers-hollow-men-rebooted_27.html&psig=AOvVaw3K_UiuHp3De3Bg3U1MuaiG&ust=1553031251545613)
 
 
 ## Gameplay
