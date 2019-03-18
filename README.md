@@ -20,7 +20,7 @@ For more details and rules about the gameplay, checkout the Excel file~
 
 Current Gameboard (ver.1.0):
 
-![IOBgameboard](/assests/IOBgameboard.jpg?raw=true "IOBgameboard")
+![IOBgameboard](https://raw.githubusercontent.com/xuzhe0205/IOB_markovchain/master/assets/IOBgameboard.jpg)
 
 
 ## Results
@@ -33,13 +33,13 @@ Probability distribution of the bite count:
 
 * indicating the trend of how and where zombies would catch up with the players and bite
 
-![Probability Distribution of Bite Count](/assests/ProbDistBitten.jpg?raw=true "Probability Distribution of Bite Count")
+![Probability Distribution of Bite Count](https://raw.githubusercontent.com/xuzhe0205/IOB_markovchain/master/assets/ProbDistBitten.jpg)
 
 Probability distribution of death count:
 
 * Indicating that players die geological-scatterly and rarely in the game
 
-![Probability Distribution of Death Count](/assests/ProbDistDeath.jpg?raw=true "Probability Distribution of Death Count")
+![Probability Distribution of Death Count](https://raw.githubusercontent.com/xuzhe0205/IOB_markovchain/master/assets/ProbDistDeath.jpg)
 
 
 ## Conclusions
