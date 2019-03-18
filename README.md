@@ -26,7 +26,7 @@ Current Gameboard (ver.1.0):
 
 Distribution of the normalized dominant eigenvector:
 
-![Normalized Dominant Eigenvector](/assests/NormDomEigv.jpg.jpg?raw=true "Normalized Dominant Eigenvector")
+![Normalized Dominant Eigenvector](IOB_markovchain/assests/NormDomEigv.jpg.jpg?raw=true "Normalized Dominant Eigenvector")
 
 Probability distribution of the bite count:
 
