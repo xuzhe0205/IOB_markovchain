@@ -51,5 +51,6 @@ If we pay more attention to the distribution of death, it is obvious that the oc
 
 This IOB game still has lots of room to improve, gameplays, rulls, UI, associated factors contributing to the Markov Chains analysis, etc.
 
+<br>
 
 -------------------- Originally created by Zhe Xu --------------------
